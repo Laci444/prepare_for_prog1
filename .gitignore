@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# LSP specific
+.null-ls*
