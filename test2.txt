@@ -1,0 +1,6 @@
+1. irj fgv-t 2db int parameterrel ami visszaadja a ket szam kozotti prim szamok db számát
+2. adott egy 4x4-es 2dimenzios matrix. irjon fgv-t ami visszaadja a sorok maximum erteket
+3. van egy int a, int tomb[10] es int b. irjon egy void fgv-t ami parameterul fogadja ezeket es a-nak értékül adja a tomb[b]. elemét
+4. kerjen be a felhasznalotol 3db számot és írja ki az átlagukhoz legközelebbi számot
+5. struct Alma string fajta es string szin-el. Ha piros az alma akkor kerüljön bele egy pirosak nevu tombbe ha meg zold akkor zoldek nevube
+6. fajl megnyitasa, volt vagy 5 sornyi szám es azok ossze vissza voltak es az volt a lenyeg h rendezd oket soronkent sorrendbe, majd ird ki oket egy txt-be
